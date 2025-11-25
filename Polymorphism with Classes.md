@@ -1,4 +1,4 @@
-# #  Python OOP: Polymorphism with Classes
+#  Python OOP: Polymorphism with Classes
 
 ## AIM
 
